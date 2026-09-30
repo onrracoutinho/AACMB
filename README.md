@@ -49,7 +49,7 @@ Artigos com fluxo de aprovação, editor rich text, galeria de imagens, curtidas
 Dois tipos de eventos (internos e públicos), confirmação de presença para associados e visitantes, exportação de listas por evento, galerias de mídia com links externos.
 
 ### Galerias Institucionais
-Sistema polimórfico único gerenciando 6 seções: diretoria, conselhos, presidentes, histórico (imagens/vídeos), turmas — tudo centralizado no painel admin.
+Sistema polimórfico único gerenciando 6 seções: diretoria, conselhos, presidentes, histórico (imagens/vídeos), turmas, tudo centralizado no painel admin.
 
 ### Loja & Assinaturas
 Catálogo de produtos com estoque, SKU automático, integração direta para checkout. Planos de assinatura com renovação via gateway de pagamento.
